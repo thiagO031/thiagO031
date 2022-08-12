@@ -2,7 +2,7 @@
 
 
 
-- 💻 Atualmente me aprofundando nos estudos em JavaScript, mas já possuo conhecimentos em html, css e bootstrap.
+- 💻 Atualmente me aprofundando nos estudos em React.js, mas já possuo conhecimentos em JavaScript, Html, Css, Sass e Bootstrap.
 - 📚 Além de estudar JavaScript, também venho estudando Node.js e futuramente React.js.
 - 🎁 Busco a primeira oportunidade de estagio.
 - ⚡ Fun fact: Comecei a estudar programação durante a pandemia em 2021, e desde então os códigos nunca mais sairam da minha vida.
